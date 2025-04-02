@@ -1,0 +1,3 @@
+- install just
+- `just setup`
+- `just test`
