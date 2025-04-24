@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: tmp-shell
   annotations:
-    linkerd.io/inject: disabled
+    linkerd.io/inject: enabled
 spec:
   containers:
     - name: tmp-shell
